@@ -12,7 +12,7 @@ body {
   display: grid;
   justify-content: center;
   overflow: hidden;
-  background: #333;
+  background: #141929;
 }
 .botNameActive {
   display: block !important;
